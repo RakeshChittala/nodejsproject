@@ -1,0 +1,11 @@
+-- database: c:\Users\rakes\Desktop\Nodejs Assignment\myapp\database.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+INSERT INTO Employees (name, age, role, user_id)
+VALUES
+  ('John Doe', 30, 'Employee', 1),
+  ('Jane Smith', 25, 'Manager', 2),
+  ('Alice Johnson', 35, 'Employee', 3),
+  ('Robert Williams', 28, 'Employee', 4),
+  ('Emily Brown', 40, 'Manager', 5);
